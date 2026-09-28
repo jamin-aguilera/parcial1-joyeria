@@ -1,0 +1,25 @@
+$kind: http-request
+url: http://localhost:3333/api/productos/6ab5e82cb8a0c21ed58c1240
+method: PUT
+body:
+  type: json
+  content: " {\r
+
+    \    \"nombre\": \"Pulsera Playa\",\r
+
+    \    \"descripcion\": \"Pulsera de Oro\",\r
+
+    \    \"precio\": 23,\r
+
+    \    \"categoria\": \"Pulseras\",\r
+
+    \    \"imagen\": \"img/pulsera-perlas.jpg\",\r
+
+    \    \"link\": \"https://web.whatsapp.com/\",\r
+
+    \    \"id\": 29,\r
+
+    \    \"eliminado\": false\r
+
+    \  }"
+order: 3446395533459256

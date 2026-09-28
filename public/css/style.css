@@ -1,0 +1,28 @@
+body{
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    background-color: rgb(226, 223, 223);
+}
+h2{
+    font-weight: bold;
+}
+.btn-show{
+    background-color: rgb(65, 27, 255);
+    
+    color: rgb(255, 255, 255);
+}
+.btn-edit {
+    background-color: rgb(136, 142, 185);
+    font-weight: bold;
+}
+.btn-delete{
+    background-color: rgb(159, 159, 159);
+    font-weight: bold;
+
+}
+.btn{
+    padding: 10px;
+    margin: 5px;
+}
+.bg-pink{
+        background-color: rgb(163, 171, 255);
+}

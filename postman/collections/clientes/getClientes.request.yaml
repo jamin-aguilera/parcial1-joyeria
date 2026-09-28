@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3333/api/clientes
+method: GET
+order: 2831294075781898

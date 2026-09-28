@@ -1,0 +1,23 @@
+$kind: http-request
+url: http://localhost:3333/api/clientes/6ab86832c403aff2f27f7b50/productos
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \  \"nombre\": \"Pulsera Encargo Francisco\",\r
+
+    \  \"descripcion\": \"Pulsera personalizada para Francisco\",\r
+
+    \  \"precio\": 150,\r
+
+    \  \"categoria\": \"Pulseras\",\r
+
+    \  \"imagen\": \"img/knot.jpg\",\r
+
+    \  \"link\": \"https://web.whatsapp.com/\",\r
+
+    \  \"cliente_id\": \"6ab86832c403aff2f27f7b50\"\r
+
+    }"
+order: 290936392156589

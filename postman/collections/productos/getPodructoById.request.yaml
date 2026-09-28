@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3333/api/productos/6ab5e82cb8a0c21ed58c1228
+method: GET
+order: 883232802369862

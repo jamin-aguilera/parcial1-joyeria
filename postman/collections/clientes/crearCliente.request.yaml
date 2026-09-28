@@ -1,0 +1,15 @@
+$kind: http-request
+url: http://localhost:3333/api/clientes
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"nombre\": \"Francisco Perez\",\r
+
+    \  \"foto\": \"https://picsum.photos/200\",\r
+
+    \  \"descripcion\": \"Cliente habitual, encargó una pulsera personalizada\"\r
+
+    }"
+order: 1790469998499

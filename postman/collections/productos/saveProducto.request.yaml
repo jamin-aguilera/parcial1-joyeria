@@ -1,0 +1,25 @@
+$kind: http-request
+url: http://localhost:3333/api/productos
+method: POST
+body:
+  type: json
+  content: "  {\r
+
+    \    \"nombre\": \"Set Pulseras\",\r
+
+    \    \"descripcion\": \"Pulsera de Oro con dije de corazon\",\r
+
+    \    \"precio\": 23,\r
+
+    \    \"categoria\": \"Pulseras\",\r
+
+    \    \"imagen\": \"img/brazalete-playa.jpg\",\r
+
+    \    \"link\": \"https://web.whatsapp.com/\",\r
+
+    \    \"id\": 28,\r
+
+    \    \"eliminado\": false\r
+
+    \  }"
+order: 1761718135822881

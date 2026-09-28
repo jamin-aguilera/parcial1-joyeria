@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "nombre": "Anillo de Zafiro",
+    "descripcion": "Elegante anillo con piedra de zafiro. Perfecto para cualquier ocasión.",
+    "precio": 149.99,
+    "categoria": "Anillos",
+    "imagen": "img/anillo-zafiro.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 2,
+    "nombre": "Collar Dije Corazón",
+    "descripcion": "Cadena fina con dije de corazón en oro. Un clásico que nunca pasa de moda, ideal para regalar.",
+    "precio": 120.5,
+    "categoria": "Collares",
+    "imagen": "img/collar-corazon.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Pulsera Playa",
+    "descripcion": "Pulsera clásica con perlas cultivadas y broche dorado. Ideal para un look sofisticado y atemporal.",
+    "precio": 99.99,
+    "categoria": "Pulseras",
+    "imagen": "img/brazalete-playa.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Aros Minimalistas",
+    "descripcion": "Pequeños aros circulares de diseño minimalista en oro.",
+    "precio": 79.99,
+    "categoria": "Aros",
+    "imagen": "img/aros-diamante.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Brazalete Eslabones",
+    "descripcion": "Brazalete de eslabones pequeños, creado en un metal con recubrimiento de oro de 14k.",
+    "precio": 189.99,
+    "categoria": "Pulseras",
+    "imagen": "img/pulsera-eslabones.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Set de 3 Anillos",
+    "descripcion": "Set de tres anillos con acabado dorado y diseño versátil. Ideal para combinar entre sí.",
+    "precio": 50,
+    "categoria": "Anillos",
+    "imagen": "img/set-anillos.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Anillo Knot",
+    "descripcion": "Anillo Knot de diseño elegante y original, ideal para cualquier ocasión.",
+    "precio": 60,
+    "categoria": "Anillos",
+    "imagen": "img/anillo-knot.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Brazalete Corazón",
+    "descripcion": "Pulsera delicada con un dije de corazón. Atemporal y original.",
+    "precio": 120,
+    "categoria": "Pulseras",
+    "imagen": "img/pulsera-corazon.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 9,
+    "nombre": "Knot",
+    "descripcion": "Aros elegantes y sofisticados con un diseño de nudo original y atemporal.",
+    "precio": 90.5,
+    "categoria": "Aros",
+    "imagen": "img/aros-knot.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Collar Circulo",
+    "descripcion": "Cadena fina con dije de circulo. A conjunto con sus aros, ideales para combinar juntos.",
+    "precio": 110,
+    "categoria": "Collares",
+    "imagen": "img/collar-circulo.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 11,
+    "nombre": "Collar Dots",
+    "descripcion": "Cadena fina decorada con pequeñas esferas distribuidas a lo largo del collar. Su diseño minimalista aporta un toque elegante y moderno.",
+    "precio": 130,
+    "categoria": "Collares",
+    "imagen": "img/collar-bolitas.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Collar Lock",
+    "descripcion": "Collar con dije de cierre circular de inspiración contemporánea y recubrimiento en oro de 14k. Una pieza sofisticada y versátil.",
+    "precio": 140,
+    "categoria": "Collares",
+    "imagen": "img/collar-circulo.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Aros Lock",
+    "descripcion": "Aros de diseño circular con líneas limpias y acabado brillante. Livianos, cómodos y fáciles de combinar.",
+    "precio": 90,
+    "categoria": "Aros",
+    "imagen": "img/aros-circulo.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Aros Lágrima",
+    "descripcion": "Aros con silueta de lágrima y acabado pulido en tono dorado. Su diseño elegante y moderno aporta un toque sofisticado.",
+    "precio": 85,
+    "categoria": "Aros",
+    "imagen": "img/aros-lagrima.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Pulsera Knot",
+    "descripcion": "Pulsera de eslabones finos con un delicado detalle Knot, símbolo de unión y fortaleza. Su acabado dorado la convierte en una pieza elegante para el uso diario.",
+    "precio": 130,
+    "categoria": "Pulseras",
+    "imagen": "img/pulsera-knot.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 16,
+    "nombre": "Anillo Hueso",
+    "descripcion": "Anillo de diseño orgánico inspirado en formas naturales. Su acabado pulido y estilo contemporáneo lo convierten en una pieza llamativa y elegante.",
+    "precio": 65,
+    "categoria": "Anillos",
+    "imagen": "img/anillo-hueso.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 17,
+    "nombre": "Anillo Solitario",
+    "descripcion": "Anillo delicado con una piedra central brillante y un diseño clásico. Ideal para complementar cualquier conjunto.",
+    "precio": 95,
+    "categoria": "Anillos",
+    "imagen": "img/anillo-knot.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 18,
+    "nombre": "Pulsera de Perlas",
+    "descripcion": "Pulsera con perlas y cadena de oro. Un accesorio sencillo y elegante para todos los días.",
+    "precio": 75,
+    "categoria": "Pulseras",
+    "imagen": "img/pulsera-perlas.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 19,
+    "nombre": "Aros Oro",
+    "descripcion": "Aros de oro, entrelazado en forma de candado. Una combinación de elegancia y sencillez.",
+    "precio": 70,
+    "categoria": "Aros",
+    "imagen": "img/aro-modelo.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 20,
+    "nombre": "Collar Luna",
+    "descripcion": "Collar de cadena fina con dije de luna y acabado dorado. Un diseño delicado que aporta un toque especial a cualquier look.",
+    "precio": 105,
+    "categoria": "Collares",
+    "imagen": "img/collar-estrella.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 21,
+    "nombre": "Tobillera Dorada",
+    "descripcion": "Tobillera de cadena fina con pequeños detalles brillantes. Un accesorio delicado y versátil para complementar tus conjuntos.",
+    "precio": 55,
+    "categoria": "Accesorios",
+    "imagen": "img/tobillera.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 22,
+    "nombre": "Cadena para Anteojos",
+    "descripcion": "Cadena decorativa de eslabones pequeños para anteojos, con acabado dorado y un diseño moderno.",
+    "precio": 45,
+    "categoria": "Accesorios",
+    "imagen": "img/cadena-lentes.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 23,
+    "nombre": "Dije Estrella",
+    "descripcion": "Dije con forma de estrella y acabado dorado. Ideal para personalizar cadenas y crear combinaciones únicas.",
+    "precio": 35,
+    "categoria": "Accesorios",
+    "imagen": "img/dije-estrella.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 24,
+    "nombre": "Prendedor Flor",
+    "descripcion": "Prendedor con diseño floral y acabado dorado. Un detalle elegante para decorar prendas, pañuelos o bolsos.",
+    "precio": 65,
+    "categoria": "Accesorios",
+    "imagen": "img/prendedor-flor.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "id": 25,
+    "nombre": "Set de Dijes",
+    "descripcion": "Set de tres dijes decorativos con diferentes formas y acabado dorado. Perfectos para personalizar collares y pulseras.",
+    "precio": 60,
+    "categoria": "Accesorios",
+    "imagen": "img/set-dijes.jpg",
+    "link": "https://web.whatsapp.com/",
+    "eliminado": false
+  },
+  {
+    "nombre": "Test",
+    "descripcion": "prueba",
+    "precio": 10,
+    "categoria": "Anillos",
+    "imagen": "img/anillo-hueso.jpg",
+    "link": "https://web.whatsapp.com/",
+    "id": 26,
+    "eliminado": true
+  },
+  {
+    "nombre": "Pulsera Corazon",
+    "descripcion": "Pulsera de Oro con dije de corazon",
+    "precio": 23,
+    "categoria": "Pulseras",
+    "imagen": "img/brazalete-playa.jpg",
+    "link": "https://web.whatsapp.com/",
+    "id": 27,
+    "eliminado": false
+  },
+  {
+    "nombre": "Pulsera",
+    "descripcion": "Pulsera de Oro con dije de corazon",
+    "precio": 23,
+    "categoria": "Pulseras",
+    "imagen": "img/brazalete-playa.jpg",
+    "link": "https://web.whatsapp.com/",
+    "id": 28,
+    "eliminado": true
+  },
+  {
+    "nombre": "Pulsera Perlas",
+    "descripcion": "Pulsera de Oro con perlas",
+    "precio": 23,
+    "categoria": "Pulseras",
+    "imagen": "img/pulsera-perlas.jpg",
+    "link": "https://web.whatsapp.com/",
+    "id": 29,
+    "eliminado": false
+  }
+]

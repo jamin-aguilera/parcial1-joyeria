@@ -1,0 +1,9 @@
+$kind: http-request
+url: http://localhost:3333/api/productos?categoria=Pulseras
+method: GET
+queryParams:
+  - key: categoria
+    value: Pulseras
+    disabled: false
+    description: ""
+order: 4272591155462415
